@@ -1,0 +1,11 @@
+{
+  "name": "email-inliner",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "premailer-api": "^1.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
